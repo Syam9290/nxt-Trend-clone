@@ -1,0 +1,14 @@
+.product-sections {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 90%;
+  max-width: 1110px;
+}
+
+.SetproductsTheme {
+  background-color: black;
+  width: 100%;
+  margin: 0px;
+  padding: 30px;
+}
